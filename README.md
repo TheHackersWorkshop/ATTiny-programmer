@@ -39,12 +39,4 @@ Once your ATTiny microcontroller is programmed, it’s ready to be deployed in a
 
 This project was developed at The Hackers Workshop, dedicated to fostering innovation and supporting the DIY electronics community.
 
-## Support
-
-If you encounter any issues or have questions about assembling or using the programmer shield, please contact us at webmaster@thehackersworkshop.com.
-
-## Contribute
-
-Contributions to the project are welcome! Please visit our [GitHub repository](Link_to_GitHub_Repository) to download the schematics, provide feedback, or submit improvements.
-
 Thank you for supporting The Hackers Workshop!
